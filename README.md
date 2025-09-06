@@ -29,8 +29,8 @@ This app allows users to add, view, and delete tasks with data stored in a Postg
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/todo-app.git
-    cd todo-app
+    git clone https://github.com/your-username/task-manager-app.git
+    cd task-manager-app
     ```
 
 2. Install dependencies:
